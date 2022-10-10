@@ -44,6 +44,9 @@
   더불어 이 웹 페이지에는 Javascript가 사용되지 않았는데 다시 수정을 해서 보완할 때는 Javascript를 활용하여 더 완성도 있는 페이지로 만들고 싶습니다.
 </p>
 
----
+<br>
+
+## License
+
 MIT &copy; [SUIM](mailto:suim0215@gmail.com)
 ---
