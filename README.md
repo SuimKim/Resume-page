@@ -48,5 +48,7 @@
 
 ## License
 
-MIT &copy; [SUIM](mailto:suim0215@gmail.com)
----
+<p align="justify">
+  MIT &copy; [SUIM](mailto:suim0215@gmail.com)
+</p>
+
