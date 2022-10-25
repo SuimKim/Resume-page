@@ -1,6 +1,6 @@
 # 이력서(자기소개) 웹사이트 제작
 
-<p align="center">
+<p align="justify">
   <br>
   <img src="./img/preview.jpg">
   <br>
