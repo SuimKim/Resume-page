@@ -5,7 +5,7 @@
   <img src="./img/preview.jpg">
   <br>
   
-  🔗 [바로가기 Click !!](https://suimkim.github.io/)
+  🔗 [바로가기 Click !!]((https://shem-resume.netlify.app/)
   
 </p>
 
